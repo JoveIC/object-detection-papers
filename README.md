@@ -48,16 +48,38 @@
   
 ### [Anchor-Based: two-stage](#content)
 * **Rich feature hierarchies for accurate object detection and semantic segmentation.** CVPR, 2014. <br/>
-  [[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Code & pre-trained models](https://github.com/rbgirshick/fast-rcnn)]<br/>
+  [[Paper](https://arxiv.org/pdf/1311.2524.pdf)]<br/>
 * **Fast R-CNN.** ICCV, 2015. <br/>
   [[Paper](https://arxiv.org/pdf/1504.08083.pdf), [Code & pre-trained models](https://github.com/rbgirshick/fast-rcnn)]<br/>
 * **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.** NeurIPS, 2015. <br/>
   [[Paper](https://arxiv.org/pdf/1506.01497.pdf), [Code & pre-trained models](https://github.com/facebookresearch/detectron2)]<br/>
 * **A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection.** ECCV, 2016. <br/>
   [[Paper](https://arxiv.org/pdf/1506.01497.pdf), [Code & pre-trained models](https://github.com/facebookresearch/detectron2)]<br/>
+* **Training Region-based Object Detectors with Online Hard Example Mining.** CVPR, 2016. <br/>
+  [[Paper](https://arxiv.org/pdf/1604.03540.pdf), [Codes](https://github.com/abhi2610/ohem), OHEM]<br/>
+* **HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection.** CVPR, 2016. <br/>
+  [[Paper](https://arxiv.org/pdf/1604.00600.pdf)]<br/>
 * **R-FCN: Object Detection via Region-based Fully Convolutional Networks.** NeurIPS, 2017. <br/>
   [[Paper](https://arxiv.org/pdf/1605.06409.pdf), Code & pre-trained models: [Matlab (official)](https://github.com/daijifeng001/R-FCN), [Pytorch](https://github.com/YuwenXiong/py-R-FCN)]<br/>
-
+* **Feature Pyramid Networks for Object Detection.** CVPR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1612.03144.pdf)]<br/>
+* **A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection.** CVPR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1704.03414.pdf), [Code](https://github.com/xiaolonw/adversarial-frcnn)]<br/>
+* **Cascade R-CNN: Delving into High Quality Object Detection.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1712.00726.pdf), [Extension](https://arxiv.org/pdf/1906.09756.pdf); Code & pre-trained models: [Caffe](https://github.com/zhaoweicai/cascade-rcnn), [Detectron-based](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)]<br/>
+* **An Analysis of Scale Invariance in Object Detection - SNIP.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1711.08189.pdf)]<br/>
+* **Scale-Aware Trident Networks for Object Detection.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1901.01892.pdf), [Code & pre-trained models](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)]<br/>
+* **Thundernet: Towards realtime generic object detection.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1903.11752.pdf)]<br/>
+* **AutoFocus: Efficient Multi-Scale Inference.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1812.01600.pdf)]<br/>
+* **Learning to Rank Proposals for Object Detection.** ICCV, 2019. <br/>
+  [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tan_Learning_to_Rank_Proposals_for_Object_Detection_ICCV_2019_paper.pdf)]<br/>
+* **Bounding Box Regression with Uncertainty for Accurate Object Detection.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1809.08545.pdf), [Code](https://github.com/yihui-he/KL-Loss)]<br/>
+  
 ### [Anchor-Free: Keypoint-based](#content)
 
 ### [Anchor-Free: Center-based](#content)
