@@ -5,10 +5,7 @@
 <table>
 <tr><td colspan="3"><a href="#surveys">0. Surveys</a></td></tr>
 <tr><td colspan="3"><a href="#image-recognition">1. Image Recognition</a></td></tr>
-<tr>
-    <td>&ensp;<a href="#transformers">1.3 Transformers</a></td>
-    <td>&ensp;<a href="#gnn">1.3 GNN</a></td>
-</tr>
+
 <tr><td colspan="3"><a href="#object-detection">2. Object Detection </a></td></tr>
 <tr>
     <td>&emsp;<a href="#anchor-based-one-stage">2.11 Anchor-Based: one-stage</a></td>
@@ -18,8 +15,8 @@
     <td>&ensp;<a href="#anchor-free-keypoint-based">2.21 Anchor-Free: Keypoint-based</a></td>
     <td>&ensp;<a href="#anchor-free-center-based">2.22 Anchor-Free: Center-based</a></td>
 </tr>
-<tr><td colspan="3"><a href="#architecture">2. Architecture </a></td></tr>
-<tr><td colspan="3"><a href="#miscellaneous">2. Miscellaneous </a></td></tr>
+<tr><td colspan="3"><a href="#architecture">3. Architecture </a></td></tr>
+<tr><td colspan="3"><a href="#miscellaneous">4. Miscellaneous </a></td></tr>
 
 </table>
 
