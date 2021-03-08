@@ -18,10 +18,6 @@
     <td>&ensp;<a href="#anchor-free-keypoint-based">2.21 Anchor-Free: Keypoint-based</a></td>
     <td>&ensp;<a href="#anchor-free-center-based">2.22 Anchor-Free: Center-based</a></td>
 </tr>
-<tr>
-    <td>&ensp;<a href="#transformers">2.3 Transformers</a></td>
-    <td>&ensp;<a href="#gnn">2.4 GNN</a></td>
-</tr>
 <tr><td colspan="3"><a href="#architecture">2. Architecture </a></td></tr>
 <tr><td colspan="3"><a href="#miscellaneous">2. Miscellaneous </a></td></tr>
 
