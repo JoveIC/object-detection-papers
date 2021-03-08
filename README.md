@@ -67,6 +67,8 @@
   [[Paper](https://arxiv.org/pdf/1704.04861.pdf)]<br/>
 * **MobileNetV2: Inverted Residuals and Linear Bottlenecks.** CVPR, 2018. <br/>
   [[Paper](https://arxiv.org/pdf/1801.04381.pdf)]<br/>
+* **Learning Transferable Architectures for Scalable Image Recognition.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1707.07012.pdf), NASNet]<br/>
 * **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.** CVPR, 2018. <br/>
   [[Paper](https://arxiv.org/pdf/1707.01083.pdf)]<br/>
 * **ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.** ECCV, 2018. <br/>
