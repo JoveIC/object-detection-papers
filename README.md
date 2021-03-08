@@ -48,23 +48,35 @@
 * **Very Deep Convolutional Networks for Large-Scale Image Recognition.** ICLR, 2015. <br/>
   [[Paper](https://arxiv.org/pdf/1409.1556.pdf), VGG]<br/>
 * **Going deeper with convolutions.** CVPR, 2015. <br/>
-  [[Paper](https://arxiv.org/pdf/1409.4842.pdf), GoogleNet(Inception_V1)]<br/>
+  [[Paper](https://arxiv.org/pdf/1409.4842.pdf), GoogleNet(Inception V1)]<br/>
 * **Rethinking the Inception Architecture for Computer Vision.** CVPR, 2016. <br/>
-  [[Paper](https://arxiv.org/pdf/1512.00567.pdf), Inception_V2]<br/>
+  [[Paper](https://arxiv.org/pdf/1512.00567.pdf), Inception V2/3]<br/>
 * **Deep Residual Learning for Image Recognition.** CVPR, 2016. <br/>
   [[Paper](https://arxiv.org/pdf/1512.03385.pdf), ResNet]<br/>
 * **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.** CoRR, 2016. <br/>
   [[Paper](https://arxiv.org/pdf/1602.07360.pdf)]<br/>
+* **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.** AAAI, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1602.07261.pdf), InceptionResNetV2]<br/>
 * **Densely Connected Convolutional Networks.** CVPR, 2017. <br/>
   [[Paper](https://arxiv.org/pdf/1608.06993.pdf), DenseNet]<br/>
+* **Xception: Deep Learning with Depthwise Separable Convolutions.** CVPR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1610.02357.pdf)]<br/>
+* **Aggregated Residual Transformations for Deep Neural Networks.** CVPR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1611.05431.pdf), [code](https://github.com/facebookresearch/ResNeXt), ResNeXt]<br/>
+* **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.** CoRR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1704.04861.pdf)]<br/>
 * **MobileNetV2: Inverted Residuals and Linear Bottlenecks.** CVPR, 2018. <br/>
   [[Paper](https://arxiv.org/pdf/1801.04381.pdf)]<br/>
 * **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.** CVPR, 2018. <br/>
   [[Paper](https://arxiv.org/pdf/1707.01083.pdf)]<br/>
 * **ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.** ECCV, 2018. <br/>
   [[Paper](https://arxiv.org/pdf/1807.11164.pdf)]<br/>
+* **Searching for MobileNetV3.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1905.02244.pdf)]<br/>
 * **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.** ICML, 2019. <br/>
   [[Paper](https://arxiv.org/pdf/1905.11946.pdf)]<br/>
+* **MnasNet: Platform-Aware Neural Architecture Search for Mobile.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1807.11626.pdf)]<br/>
 
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** ICLR, 2021. <br/>
   [[Paper](https://arxiv.org/pdf/2010.11929.pdf), [Code & pre-trained models](https://github.com/google-research/vision_transformer)]<br/>
