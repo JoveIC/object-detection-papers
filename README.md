@@ -44,7 +44,7 @@
 * **Visualizing and Understanding Convolutional Networks.** ECCV, 2014. <br/>
   [[Paper](https://arxiv.org/pdf/1311.2901.pdf), ZFNet]<br/>
 * **Caffe: Convolutional Architecture for Fast Feature Embedding.** ACM Multimedia, 2014. <br/>
-  [[Paper](https://ucb-icsi-vision-group.github.io/caffe-paper/caffe.pdf), CaffeNet]<br/
+  [[Paper](https://ucb-icsi-vision-group.github.io/caffe-paper/caffe.pdf), CaffeNet]<br/>
 * **Very Deep Convolutional Networks for Large-Scale Image Recognition.** ICLR, 2015. <br/>
   [[Paper](https://arxiv.org/pdf/1409.1556.pdf), VGG]<br/>
 * **Going deeper with convolutions.** CVPR, 2015. <br/>
