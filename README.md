@@ -30,11 +30,42 @@
 ## [Surveys](#content)
 * **Deep Learning for Generic Object Detection: A Survey.** IJCV, 2019. <br/>
   [[Paper](https://link.springer.com/article/10.1007/s11263-019-01247-4)]<br/>  
+* **A Survey of Deep Learning-based Object Detection.** IEEE Access, 2019. <br/>
+  [[Paper](https://ieeexplore.ieee.org/document/8825470)]<br/> 
+* **A survey on Image Data Augmentation for Deep Learning.** Journal of Big Data, 2019. <br/>
+  [[Paper](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf)]<br/>  
 * **Transformers in Vision: A Survey.** arXiv, 2021. <br/>
   [[Paper](https://arxiv.org/pdf/2101.01169.pdf)]<br/>
 
 
 ## [Image Recognition](#content)
+* **ImageNet Classification with Deep Convolutional Neural Networks.** NeurIPS, 2012. <br/>
+  [[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), AlexNet]<br/>
+* **Visualizing and Understanding Convolutional Networks.** ECCV, 2014. <br/>
+  [[Paper](https://arxiv.org/pdf/1311.2901.pdf), ZFNet]<br/>
+* **Caffe: Convolutional Architecture for Fast Feature Embedding.** ACM Multimedia, 2014. <br/>
+  [[Paper](https://ucb-icsi-vision-group.github.io/caffe-paper/caffe.pdf), CaffeNet]<br/
+* **Very Deep Convolutional Networks for Large-Scale Image Recognition.** ICLR, 2015. <br/>
+  [[Paper](https://arxiv.org/pdf/1409.1556.pdf), VGG]<br/>
+* **Going deeper with convolutions.** CVPR, 2015. <br/>
+  [[Paper](https://arxiv.org/pdf/1409.4842.pdf), GoogleNet(Inception_V1)]<br/>
+* **Rethinking the Inception Architecture for Computer Vision.** CVPR, 2016. <br/>
+  [[Paper](https://arxiv.org/pdf/1512.00567.pdf), Inception_V2]<br/>
+* **Deep Residual Learning for Image Recognition.** CVPR, 2016. <br/>
+  [[Paper](https://arxiv.org/pdf/1512.03385.pdf), ResNet]<br/>
+* **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.** CoRR, 2016. <br/>
+  [[Paper](https://arxiv.org/pdf/1602.07360.pdf)]<br/>
+* **Densely Connected Convolutional Networks.** CVPR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1608.06993.pdf), DenseNet]<br/>
+* **MobileNetV2: Inverted Residuals and Linear Bottlenecks.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1801.04381.pdf)]<br/>
+* **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1707.01083.pdf)]<br/>
+* **ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.** ECCV, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1807.11164.pdf)]<br/>
+* **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.** ICML, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1905.11946.pdf)]<br/>
+
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** ICLR, 2021. <br/>
   [[Paper](https://arxiv.org/pdf/2010.11929.pdf), [Code & pre-trained models](https://github.com/google-research/vision_transformer)]<br/>
 
@@ -44,7 +75,7 @@
 * **SSD: Single Shot MultiBox Detector.** ECCV, 2016. <br/>
   [[Paper](https://arxiv.org/pdf/1512.02325.pdf)]<br/>  
 * **Focal Loss for Dense Object Detection.** ICCV, 2017. <br/>
-  [[Paper](https://arxiv.org/pdf/1708.02002.pdf), [Code & pre-trained models](https://github.com/facebookresearch/detectron2)]<br/>
+  [[Paper](https://arxiv.org/pdf/1708.02002.pdf), [Code & pre-trained models](https://github.com/facebookresearch/detectron2), RetinaNet]<br/>
 * **DSSD : Deconvolutional Single Shot Detector.** CoRR, 2017. <br/>
   [[Paper](https://arxiv.org/pdf/1701.06659.pdf)]<br/>
 * **Single-Shot Refinement Neural Network for Object Detection.** CVPR, 2018. <br/>
@@ -120,9 +151,9 @@
 * **You Only Look Once: Unified, Real-Time Object Detection.** CVPR, 2016. <br/>
   [[Paper](https://arxiv.org/pdf/1506.02640.pdf)]<br/>  
 * **YOLO9000: Better, Faster, Stronger.** CVPR, 2017. <br/>
-  [[Paper](https://arxiv.org/pdf/1612.08242.pdf)]<br/>  
+  [[Paper](https://arxiv.org/pdf/1612.08242.pdf), [Website](https://pjreddie.com/darknet/yolov2/)]<br/>  
 * **YOLOv3: An Incremental Improvement.** CoRR, 2018. <br/>
-  [[Paper](https://arxiv.org/pdf/1804.02767.pdf)]<br/>
+  [[Paper](https://arxiv.org/pdf/1804.02767.pdf), [Website](https://pjreddie.com/darknet/yolo/)]<br/>
 * **FCOS: Fully Convolutional One-Stage Object Detection.** ICCV, 2019. <br/>
   [[Paper](https://arxiv.org/pdf/1904.01355.pdf); [code](https://github.com/tianzhi0549/FCOS)]<br/>
 * **Feature Selective Anchor-Free Module for Single-Shot Object Detection.** CVPR, 2019. <br/>
