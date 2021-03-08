@@ -45,6 +45,24 @@
   [[Paper](https://arxiv.org/pdf/1512.02325.pdf)]<br/>  
 * **Focal Loss for Dense Object Detection.** ICCV, 2017. <br/>
   [[Paper](https://arxiv.org/pdf/1708.02002.pdf), [Code & pre-trained models](https://github.com/facebookresearch/detectron2)]<br/>
+* **DSSD : Deconvolutional Single Shot Detector.** CoRR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1701.06659.pdf)]<br/>
+* **Single-Shot Refinement Neural Network for Object Detection.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1711.06897.pdf), [code](https://github.com/sfzhang15/RefineDet)]<br/> 
+* **Single-Shot Object Detection with Enriched Semantics.** CVPR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1712.00433.pdf), [code](https://github.com/bairdzhang/des)]<br/>
+* **Deep Feature Pyramid Reconfiguration for Object Detection.** ECCV, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1808.07993.pdf)]<br/> 
+* **Receptive Field Block Net for Accurate and Fast Object Detection.** ECCV, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1711.07767.pdf), [code](https://github.com/ruinmessi/RFBNet)]<br/> 
+* **ScratchDet: Training Single-Shot Object Detectors from Scratch.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1810.08425.pdf), [code](https://github.com/KimSoybean/ScratchDet)]<br/> 
+* **Towards accurate one-stage object detection with ap-loss.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1904.06373.pdf), [Journal](https://arxiv.org/pdf/2008.07294.pdf); [code](https://github.com/cccorn/AP-loss)]<br/> 
+* **FreeAnchor: Learning to Match Anchors for Visual Object Detection.** NeuraIPS, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1909.02466.pdf), [code](https://github.com/zhangxiaosong18/FreeAnchor)]<br/>  
+* **Learning rich features at high-speed for single-shot object detection.** ICCV, 2019. <br/>
+  [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Rich_Features_at_High-Speed_for_Single-Shot_Object_Detection_ICCV_2019_paper.pdf)]<br/>  
   
 ### [Anchor-Based: two-stage](#content)
 * **Rich feature hierarchies for accurate object detection and semantic segmentation.** CVPR, 2014. <br/>
@@ -81,9 +99,38 @@
   [[Paper](https://arxiv.org/pdf/1809.08545.pdf), [Code](https://github.com/yihui-he/KL-Loss)]<br/>
   
 ### [Anchor-Free: Keypoint-based](#content)
+* **CornerNet: Detecting Objects as Paired Keypoints.** ECCV, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1808.01244.pdf), [code](https://github.com/princeton-vl/CornerNet)]<br/>
+* **Grid R-CNN.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1811.12030.pdf), [code](https://github.com/STVIR/Grid-R-CNN)]<br/>
+* **Bottom-up Object Detection by Grouping Extreme and Center Points.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1901.08043.pdf), [code](https://github.com/xingyizhou/ExtremeNet)]<br/>
+* **CenterNet: Keypoint Triplets for Object Detection.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1904.08189.pdf), [code](https://github.com/Duankaiwen/CenterNet)]<br/>
+* **RepPoints: Point Set Representation for Object Detection.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1904.11490.pdf), [code](https://github.com/microsoft/RepPoints)]<br/>
+* **Objects as Points.** CoPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1904.07850.pdf), [code](https://github.com/xingyizhou/CenterNet)]<br/> 
+* **CornerNet-Lite: Efficient Keypoint Based Object Detection.** BMVC, 2020. <br/>
+  [[Paper](https://arxiv.org/pdf/1904.08900.pdf), [code](https://github.com/princeton-vl/CornerNet-Lite)]<br/>
 
 ### [Anchor-Free: Center-based](#content)
-
+* **DenseBox: Unifying Landmark Localization with End to End Object Detection.** CoRR, 2015. <br/>
+  [[Paper](https://arxiv.org/pdf/1509.04874.pdf)]<br/> 
+* **You Only Look Once: Unified, Real-Time Object Detection.** CVPR, 2016. <br/>
+  [[Paper](https://arxiv.org/pdf/1506.02640.pdf)]<br/>  
+* **YOLO9000: Better, Faster, Stronger.** CVPR, 2017. <br/>
+  [[Paper](https://arxiv.org/pdf/1612.08242.pdf)]<br/>  
+* **YOLOv3: An Incremental Improvement.** CoRR, 2018. <br/>
+  [[Paper](https://arxiv.org/pdf/1804.02767.pdf)]<br/>
+* **FCOS: Fully Convolutional One-Stage Object Detection.** ICCV, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1904.01355.pdf); [code](https://github.com/tianzhi0549/FCOS)]<br/>
+* **Feature Selective Anchor-Free Module for Single-Shot Object Detection.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1903.00621.pdf)]<br/>  
+* **Region Proposal by Guided Anchoring.** CVPR, 2019. <br/>
+  [[Paper](https://arxiv.org/pdf/1901.03278.pdf); [code](https://github.com/open-mmlab/mmdetection)]<br/> 
+* **YOLOv4: Optimal Speed and Accuracy of Object Detection.** CoRR, 2020. <br/>
+  [[Paper](https://arxiv.org/pdf/2004.10934.pdf); [code](https://github.com/AlexeyAB/darknet)]<br/>
 
 ### [Transformers](#content)
 * **End-to-End Object Detection with Transformers.** ECCV, 2020. <br/>
